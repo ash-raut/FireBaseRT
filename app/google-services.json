@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704426258683",
+    "firebase_url": "https://fir-rt-a9fd8.firebaseio.com",
+    "project_id": "fir-rt-a9fd8",
+    "storage_bucket": "fir-rt-a9fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704426258683:android:5dd4a5aed9ae1e045ec05e",
+        "android_client_info": {
+          "package_name": "com.example.firebasert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704426258683-alsgbrc2639qns208hhdbu6sqhpi4m53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQpDyt8SM1C_XJjWrz2TBrRtUQxcxvt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704426258683-alsgbrc2639qns208hhdbu6sqhpi4m53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
